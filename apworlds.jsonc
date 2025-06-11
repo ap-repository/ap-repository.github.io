@@ -2,14 +2,15 @@
   {
     "name": "example-apworld",
     "game_name": "Archipelago",
-    "author": "someone",
-    "genre": "Adventure"
+    "github_url": "https://github.com/ap-repository/ap-repository.github.io",
+    "author": "someone"
   },
   {
     "name": "example-apworld-2",
     "game_name": "Archipelago",
     "description": "A game that is fun and AP-supported.",
     "img_url": "https://picsum.photos/300/200",
+    "github_url": "https://github.com/ap-repository/ap-repository.github.io",
     "author": "someone",
     "version": "v1.0.0",
     "genre": "Action",
