@@ -1,0 +1,24 @@
+[
+  {
+    "name": "example-apworld",
+    "game_name": "Archipelago",
+    "author": "someone",
+    "genre": "Adventure",
+  },
+  {
+    "name": "example-apworld-2",
+    "game_name": "Archipelago",
+    "description": "A game that is fun and AP-supported.",
+    "img_url": "https://picsum.photos/300/200",
+    "author": "someone",
+    "version": "v1.0.0",
+    "genre": "Action",
+    "platforms": ["Windows"],
+    "options": {
+      "free": true,
+      "official": true,
+      "genres": ["Adventure"],
+      "other_tags": ["Very fun"],
+    },
+  },
+]
