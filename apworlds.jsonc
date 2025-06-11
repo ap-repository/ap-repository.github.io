@@ -21,5 +21,22 @@
       "genres": ["Adventure"],
       "other_tags": ["Very fun"]
     }
+  },
+  {
+    "name": "example-apworld-3",
+    "game_name": "Archipelago",
+    "description": "A game that is fun and AP-supported.",
+    "img_url": "https://picsum.photos/300/200",
+    "github_url": "https://github.com/ap-repository/ap-repository.github.io",
+    "author": "someone",
+    "version": "v1.0.0",
+    "genre": "Puzzle",
+    "platforms": ["Windows", "macOS", "Linux", "PC", "Android"],
+    "options": {
+      "free": true,
+      "official": true,
+      "genres": ["Puzzle", "Adventure", "Noir"],
+      "other_tags": ["Very fun"]
+    }
   }
 ]
