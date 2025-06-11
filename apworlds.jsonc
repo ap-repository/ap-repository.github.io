@@ -3,7 +3,7 @@
     "name": "example-apworld",
     "game_name": "Archipelago",
     "author": "someone",
-    "genre": "Adventure",
+    "genre": "Adventure"
   },
   {
     "name": "example-apworld-2",
@@ -18,7 +18,7 @@
       "free": true,
       "official": true,
       "genres": ["Adventure"],
-      "other_tags": ["Very fun"],
-    },
-  },
+      "other_tags": ["Very fun"]
+    }
+  }
 ]
