@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
 
     environment:
-      name: demo
+      name: github-pages
       url: ${{ steps.deploy_to_pages.outputs.github_pages_url }}
 
     steps:
