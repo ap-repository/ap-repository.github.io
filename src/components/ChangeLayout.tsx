@@ -15,9 +15,7 @@ const LAYOUT = {
   List: 2,
 }
 
-type Props = {}
-
-const ChangeLayout = (props: Props) => {
+const ChangeLayout = () => {
   const prefersDarkMode = useMediaQuery("(prefers-color-scheme: dark)")
 
   const [layout, setLayout] = useState(LAYOUT.Grid)
